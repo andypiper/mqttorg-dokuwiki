@@ -1,0 +1,99 @@
+.user-info {
+ margin-top: 20px;
+ color: #666;
+ text-align: right;
+ margin-bottom: 20px;
+}
+h2.wikititle {
+ font-weight: normal;
+}
+.meta {
+ color: #666;
+ font-size: 0.9em;
+ }
+
+.wikipage {
+ border-bottom: solid 1px #cdcdee;
+ font-size: 1.1em;
+ padding-bottom: 20px;
+}
+.searchbar { float: right; }
+.bar form { display: inline; }
+input.button {
+ border: 1px solid #cdcdff;
+ background: #d7d7f1;
+ color: #666;
+ }
+.meta {
+ margin-bottom: 20px;
+ }
+ .bar-right {
+ float: right;
+ }
+.do-page {
+ display: none;
+ }
+.wikipage h2 {
+ font-weight: normal;
+ }
+.wikipage h1 {
+ font-size:18px;
+ margin:0px 0px 0px 0px;
+ padding-top:5px;
+ border-bottom: solid 1px #cdcdee;
+ margin-bottom: 10px;
+ font-weight: normal;
+}
+.wikipage  li {
+ margin-left: 40px;
+}
+
+.fn {
+ font-size: 0.9em;
+ }
+
+div.toc {
+ float: right;
+ position: relative;
+ border: 1px solid #cdcdee;
+ margin: 10px;
+ background: #fff;
+}
+ul.toc li { margin-left: 25px; }
+ul.toc li.level1 { margin-left: 10px; }
+div#toc__inside {
+ margin: 0px;
+ padding: 10px;
+ font-size: 0.9em;
+}
+div.tocheader {
+ padding: 2px;
+ border-bottom: 1px solid #cdcdee;
+ background: #f9f9f9;
+ text-align: right;
+ }
+.ajax_qsearch {
+ display: none;
+}
+
+.secedit {
+ text-align: right;
+ padding-bottom: 2px;
+ border-bottom: 1px dashed #eee;
+ }
+.secedit input {
+ background: #eef;
+ border: 1px solid #ddf;
+ color: #999;
+ }
+
+p {
+ padding: 5px 0;
+ }
+
+.wikipage  ul {
+ padding: 5px 0;
+ }
+.wikipage ul li {
+ padding: 3px 0;
+}
