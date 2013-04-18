@@ -12,3 +12,10 @@ Credit
 ------
 
 The template was originally developed by [Nicholas O'Leary](http://github.org/knolleary)
+
+
+Useful references
+-----------------
+
+ * Dokuwiki [Template development docs](https://www.dokuwiki.org/devel:templates)
+ * Dokuwiki [Starter Template](https://www.dokuwiki.org/template:starter)
